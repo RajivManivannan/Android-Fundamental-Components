@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.reeuse.component.service.ServiceDemoActivity"/>
+      <point      
+        x = "1632"      
+        y = "-28"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.reeuse.component.ui.DemoActivity"/>
+      <point      
+        x = "820"      
+        y = "-32"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.reeuse.component.MainActivity"/>
+      <point      
+        x = "16"      
+        y = "-8"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.reeuse.component.ui.FragmentDemoActivity"/>
+      <point      
+        x = "2448"      
+        y = "-24"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.reeuse.component.intent.IntentDemoActivity"/>
+      <point      
+        x = "900"      
+        y = "1392"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.reeuse.component.intent.ShareIntentActivity"/>
+      <point      
+        x = "44"      
+        y = "1392"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
