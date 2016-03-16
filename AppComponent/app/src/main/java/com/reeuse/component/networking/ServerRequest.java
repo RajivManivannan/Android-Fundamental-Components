@@ -49,6 +49,7 @@ public class ServerRequest {
         } catch (Exception e) {
             Log.d(TAG, e.getLocalizedMessage());
         }finally {
+            if(urlConnection!=null)
           urlConnection.disconnect();;// disconnect the urlConnection
         }
         return response;
@@ -90,6 +91,7 @@ public class ServerRequest {
         } catch (Exception e) {
             Log.d(TAG, e.getLocalizedMessage());
         }finally {
+            if(urlConnection!=null)
             urlConnection.disconnect();// disconnect the urlConnection
         }
         return response;

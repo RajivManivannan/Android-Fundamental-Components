@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".ui.HomeActivity">
+    tools:context=".activity.HomeActivity">
 
     <item
         android:id="@+id/action_home"
@@ -9,9 +9,9 @@
         android:title="@string/action_home"
         app:showAsAction="never" />
     <item
-        android:id="@+id/action_onePlus"
+        android:id="@+id/action_contact_us"
         android:orderInCategory="200"
-        android:title="@string/contact_us_fragment"
+        android:title="@string/action_contact_us"
         app:showAsAction="never" />
 
 </menu>

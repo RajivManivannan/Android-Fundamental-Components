@@ -14,7 +14,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "com.reeuse.component.ui.DemoActivity"/>
+        className = "com.reeuse.component.activity.DemoActivity"/>
       <point      
         x = "820"      
         y = "-32"/>
@@ -22,7 +22,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "com.reeuse.component.MainActivity"/>
+        className = "com.reeuse.component.activity.MainActivity"/>
       <point      
         x = "16"      
         y = "-8"/>
@@ -30,7 +30,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "com.reeuse.component.ui.FragmentDemoActivity"/>
+        className = "com.reeuse.component.activity.FragmentDemoActivity"/>
       <point      
         x = "2448"      
         y = "-24"/>
